@@ -70,10 +70,6 @@ Save your finished storybook as a personalized, accessible PDF ready to enjoy an
 - **AI**: Google Gemini API for story generation, images generation & text-to-speech
 - **Deployment**: Firebase App Hosting
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 ## 🙏 Acknowledgments
 
